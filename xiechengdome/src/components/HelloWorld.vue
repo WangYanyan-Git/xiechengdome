@@ -2,6 +2,8 @@
   <div class="hello">
     <h1>{{ msg }}</h1>
    hello world
+  老师你好
+  
   </div>
 </template>
 
